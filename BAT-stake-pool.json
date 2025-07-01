@@ -1,8 +1,0 @@
-cat > BAT-stake-pool.json << EOF
-{
-"name": "BAT Community Stake Pool",
-"description": "Our Cardano stake pool represents the Basic Attention Token (BAT) community, devoted global advocates of Brave Browser, driving progress. Delegate to our BAT Community DRep at drep1y2hwk9gqua527ghfdysfjuzeuh4zcad7nveqzupm84h5adqjv22cu to advance Cardano’s ecosystem with integrity.",
-"ticker": "BAT",
-"homepage": "https://x.com/aranyaka_"
-}
-EOF
