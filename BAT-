@@ -1,0 +1,7 @@
+{
+  "name": "Basic Attention Token Pool * 0% fees",
+  "description": "Ambassador-run SPO for Brave. Powered in Canada. 0% Pool operator fees ✓. We’ll donate 20% of earnings to The Ocean Cleanup 🐠 100% hydro and solar energy. Operated by alex.brave, a Brave Browser’s BAT Ambassador. Follow on X.com/aranyaka_.",
+  "ticker": "BAT",
+  "homepage": "https://basicattentiontoken.org",
+  "extended": "https://raw.githubusercontent.com/alex-brave/SPO/ext/BAT-ext.json"
+}
