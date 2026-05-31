@@ -2,10 +2,14 @@
   "info": {
     "url_png_logo": "https://alex-brave.github.io/SPO/BAT.png",
     "location": "British Columbia, Canada",
-    "about": "A 0% fee stake pool operated by one of Brave's BAT Ambassador. Fully self-hosted on clean Canadian energy with a focus on decentralization, privacy, and meaningful on-chain governance participation.",
+    "about": "A 0% fee stake pool operated by Brave's $BAT Ambassador. Fully self-hosted on clean Canadian energy with a focus on decentralization, privacy, and meaningful on-chain governance participation.",
     "social": {
-      "twitter_handle": "aranyaka_"
-    },
-    "infrastructure": "TrueNAS Scale • Renewable Energy"
+      "x_handle": "aranyaka_",
+      "twitter_handle": "aranyaka_",
+      "official_x": [
+        "https://x.com/AttentionToken",
+        "https://x.com/Brave"
+      ]
+    }
   }
 }
