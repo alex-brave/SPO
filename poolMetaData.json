@@ -1,6 +1,6 @@
 {
   "name": "Basic Attention Token ($BAT) Pool",
-  "description": "Official Brave's Stake Pool • 0% Fees • Powered by Clean Canadian Energy.",
+  "description": "Official Brave's BAT Stake Pool • 0% Fees • Powered by Clean Canadian Energy.",
   "ticker": "BAT",
   "homepage": "https://basicattentiontoken.org/",
   "extended": "https://alex-brave.github.io/SPO/extended.json"
